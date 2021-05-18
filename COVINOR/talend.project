@@ -4,4 +4,12 @@
     <migrationTask xmi:id="_uD7CoLewEeuPcb5KUl0OgQ" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_uBtcIrewEeuPcb5KUl0OgQ" login="jeoffrey.stephan@hardis-group.com" firstName="Jeoffrey" lastName="Stephan" type="DQ" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_2YMA2LewEeuPcb5KUl0OgQ" login="marc.daudin@hardis-group.com" firstName="Marc" lastName="Daudin" type="DQ" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_2YMA2bewEeuPcb5KUl0OgQ" login="Adrien.MILS@hardis-group.com" firstName="Adrien" lastName="Mils" type="DQ" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_2YMA2rewEeuPcb5KUl0OgQ" login="guillaume.noel@hardis-group.com" firstName="Guillaume" lastName="Noel" type="DQ" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_2YMA27ewEeuPcb5KUl0OgQ" login="nicolas.cuignon@hardis-group.com" firstName="Nicolas" lastName="Cuignon" type="DQ" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_2YMA3LewEeuPcb5KUl0OgQ" login="fdru@log.fr" firstName="Franz" lastName="Dru" type="DQ" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_2YMA3bewEeuPcb5KUl0OgQ" login="pjguillet@log.fr" firstName="Pierre-Jean" lastName="Guillet" type="DQ" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_2YMA3rewEeuPcb5KUl0OgQ" login="lgawlik@log.fr" firstName="Laurent" lastName="Gawlik" type="DQ" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_2YMA37ewEeuPcb5KUl0OgQ" login="nagham.alhadad@hardis-group.com" firstName="Nagham" lastName="Alhadad" type="DQ" additionnalData="{}"/>
 </xmi:XMI>
