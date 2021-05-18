@@ -1,0 +1,161 @@
+{
+  "itemId" : "_LVifQFA6Eeunc5sNzRhx4w",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_2jg7EFmrEeumfthRC2qqBA",
+    "parameterList" : [ {
+      "id" : "_e_B90Fo_Eeuy78gdnvlC6g",
+      "name" : "MTDT_BDD_CheminFtpIn1"
+    }, {
+      "id" : "_e_B90Vo_Eeuy78gdnvlC6g",
+      "name" : "MTDT_BDD_LibelleInterface"
+    }, {
+      "id" : "_e_B90lo_Eeuy78gdnvlC6g",
+      "name" : "MTDT_BDD_CheminFtpIn2"
+    }, {
+      "id" : "_e_B901o_Eeuy78gdnvlC6g",
+      "name" : "MTDT_BDD_CheminFtpIn3"
+    }, {
+      "id" : "_e_B91Fo_Eeuy78gdnvlC6g",
+      "name" : "MTDT_BDD_Sens"
+    }, {
+      "id" : "_e_B91Vo_Eeuy78gdnvlC6g",
+      "name" : "MTDT_BDD_BaseNomFichier"
+    }, {
+      "id" : "_e_B91lo_Eeuy78gdnvlC6g",
+      "name" : "MTDT_BDD_NomClient"
+    }, {
+      "id" : "_e_B911o_Eeuy78gdnvlC6g",
+      "name" : "MTDT_BDD_PrefixeNomFichier"
+    }, {
+      "id" : "_e_B92Fo_Eeuy78gdnvlC6g",
+      "name" : "MTDT_BDD_Cible"
+    }, {
+      "id" : "_e_B92Vo_Eeuy78gdnvlC6g",
+      "name" : "MTDT_BDD_SMTPListeDiffusionClient"
+    }, {
+      "id" : "_e_B92lo_Eeuy78gdnvlC6g",
+      "name" : "MTDT_BDD_SMTPListeDiffusionUplog"
+    }, {
+      "id" : "_e_B921o_Eeuy78gdnvlC6g",
+      "name" : "MTDT_BDD_NumInterface"
+    }, {
+      "id" : "_e_B93Fo_Eeuy78gdnvlC6g",
+      "name" : "MTDT_BDD_DateCourt1"
+    }, {
+      "id" : "_e_B93Vo_Eeuy78gdnvlC6g",
+      "name" : "MTDT_BDD_ExtensionClient"
+    }, {
+      "id" : "_e_B93lo_Eeuy78gdnvlC6g",
+      "name" : "MTDT_BDD_Mois"
+    }, {
+      "id" : "_e_B931o_Eeuy78gdnvlC6g",
+      "name" : "MTDT_BDD_DateCourt2"
+    }, {
+      "id" : "_e_B94Fo_Eeuy78gdnvlC6g",
+      "name" : "MTDT_BDD_CheminFtpOut3"
+    }, {
+      "id" : "_e_B94Vo_Eeuy78gdnvlC6g",
+      "name" : "MTDT_BDD_SuffixeNomFichier"
+    }, {
+      "id" : "_e_B94lo_Eeuy78gdnvlC6g",
+      "name" : "MTDT_BDD_CodeClient"
+    }, {
+      "id" : "_e_B941o_Eeuy78gdnvlC6g",
+      "name" : "MTDT_BDD_Jour"
+    }, {
+      "id" : "_e_B95Fo_Eeuy78gdnvlC6g",
+      "name" : "MTDT_BDD_Compteur1"
+    }, {
+      "id" : "_e_B95Vo_Eeuy78gdnvlC6g",
+      "name" : "MTDT_BDD_Source"
+    }, {
+      "id" : "_e_B95lo_Eeuy78gdnvlC6g",
+      "name" : "MTDT_BDD_ExtensionRFX"
+    }, {
+      "id" : "_e_B951o_Eeuy78gdnvlC6g",
+      "name" : "MTDT_BDD_ExtensionArchive"
+    }, {
+      "id" : "_e_B96Fo_Eeuy78gdnvlC6g",
+      "name" : "MTDT_BDD_DateLong1"
+    }, {
+      "id" : "_e_B96Vo_Eeuy78gdnvlC6g",
+      "name" : "MTDT_BDD_DateLong2"
+    }, {
+      "id" : "_e_B96lo_Eeuy78gdnvlC6g",
+      "name" : "MTDT_BDD_Annee"
+    }, {
+      "id" : "_e_B961o_Eeuy78gdnvlC6g",
+      "name" : "MTDT_BDD_Compteur2"
+    }, {
+      "id" : "_e_B97Fo_Eeuy78gdnvlC6g",
+      "name" : "MTDT_BDD_CodeInterface"
+    }, {
+      "id" : "_e_B97Vo_Eeuy78gdnvlC6g",
+      "name" : "MTDT_BDD_CheminFtpOut1"
+    }, {
+      "id" : "_e_B97lo_Eeuy78gdnvlC6g",
+      "name" : "MTDT_BDD_CheminFtpOut2"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_pEEQYD7xEeu4Xd7ifSXfpw",
+    "parameterList" : [ {
+      "id" : "_e_B971o_Eeuy78gdnvlC6g",
+      "name" : "GENERAL_ErrNomJob"
+    }, {
+      "id" : "_e_B98Fo_Eeuy78gdnvlC6g",
+      "name" : "GENERAL_ErrAlerte"
+    }, {
+      "id" : "_e_B98Vo_Eeuy78gdnvlC6g",
+      "name" : "GENERAL_ErrMessage"
+    }, {
+      "id" : "_e_B98lo_Eeuy78gdnvlC6g",
+      "name" : "GENERAL_BodyMail"
+    }, {
+      "id" : "_e_B981o_Eeuy78gdnvlC6g",
+      "name" : "GENERAL_Compteur"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_7xKyYDsEEeuNvfbGJBW4xg",
+    "parameterList" : [ {
+      "id" : "_oa-T0Fo_Eeuy78gdnvlC6g",
+      "name" : "SMTP_Port"
+    }, {
+      "id" : "_oa-T0Vo_Eeuy78gdnvlC6g",
+      "name" : "SMTP_Expediteur"
+    }, {
+      "id" : "_oa-T0lo_Eeuy78gdnvlC6g",
+      "name" : "SMTP_Objet_Mail"
+    }, {
+      "id" : "_oa-T01o_Eeuy78gdnvlC6g",
+      "name" : "SMTP_Bcc"
+    }, {
+      "id" : "_oa-T1Fo_Eeuy78gdnvlC6g",
+      "name" : "SMTP_Password"
+    }, {
+      "id" : "_oa-T1Vo_Eeuy78gdnvlC6g",
+      "name" : "SMTP_Cc"
+    }, {
+      "id" : "_oa-T1lo_Eeuy78gdnvlC6g",
+      "name" : "SMTP_Hote"
+    }, {
+      "id" : "_oa-T11o_Eeuy78gdnvlC6g",
+      "name" : "SMTP_Destinataire"
+    }, {
+      "id" : "_oa-T2Fo_Eeuy78gdnvlC6g",
+      "name" : "SMTP_Message_Mail"
+    }, {
+      "id" : "_oa-T2Vo_Eeuy78gdnvlC6g",
+      "name" : "SMTP_Login"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_r47uYDsEEeuNvfbGJBW4xg",
+    "parameterList" : [ {
+      "id" : "_Br30gF8bEeuust4X6HK3Zg",
+      "name" : "BRM_CHOIX_CLIENT_Nom"
+    } ]
+  } ]
+}
