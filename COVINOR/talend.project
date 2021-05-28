@@ -5,4 +5,11 @@
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_DfvfMr08EeuDSbRvVABWUw" login="jeoffrey.stephan@hardis-group.com" firstName="Jeoffrey" lastName="Stephan" type="DQ" additionnalData="{}"/>
   <TalendProperties:User xmi:id="_FH5v0L08EeuDSbRvVABWUw" login="fdru@log.fr" firstName="Franz" lastName="Dru" type="DQ" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_GmwWcL-MEeufUYWhbsvAig" login="marc.daudin@hardis-group.com" firstName="Marc" lastName="Daudin" type="DQ" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_GmwWcb-MEeufUYWhbsvAig" login="Adrien.MILS@hardis-group.com" firstName="Adrien" lastName="Mils" type="DQ" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_GmwWcr-MEeufUYWhbsvAig" login="guillaume.noel@hardis-group.com" firstName="Guillaume" lastName="Noel" type="DQ" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_GmwWc7-MEeufUYWhbsvAig" login="nicolas.cuignon@hardis-group.com" firstName="Nicolas" lastName="Cuignon" type="DQ" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_GmwWdL-MEeufUYWhbsvAig" login="pjguillet@log.fr" firstName="Pierre-Jean" lastName="Guillet" type="DQ" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_GmwWdb-MEeufUYWhbsvAig" login="nagham.alhadad@hardis-group.com" firstName="Nagham" lastName="Alhadad" type="DQ" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_GmwWdr-MEeufUYWhbsvAig" login="ext-hafifi@log.fr" firstName="Hicham" lastName="Afifi" type="DQ" additionnalData="{}"/>
 </xmi:XMI>
