@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmi:version="2.0">
+  <TalendMetadata:EDIFACTConnection FileName="d01b" XmlName="PRODAT" dataPackage="_wMoEMt0CEeuNOd4vpiztpw" name="repository.metadataEDIFact" xmi:id="_wMoEMd0CEeuNOd4vpiztpw"/>
+  <TalendMetadata:GenericPackage dataManager="_wMoEMd0CEeuNOd4vpiztpw" name="repository.metadataEDIFact" xmi:id="_wMoEMt0CEeuNOd4vpiztpw">
+    <ownedElement id="_odmjAN0CEeuNOd4vpiztpw" label="metadata" xmi:id="_wMoEM90CEeuNOd4vpiztpw" xsi:type="TalendMetadata:MetadataTable">
+      <feature EDIColumnName="Document_name_code" EDIXpath="&quot;Beginning_of_message/DOCUMENT_MESSAGE_NAME/Document_name_code&quot;" displayField="Document_name_code" label="Document_name_code" length="3" name="Document_name_code" nullable="false" talendType="id_String" xmi:id="_wMoENN0CEeuNOd4vpiztpw" xsi:type="TalendMetadata:EDIFACTColumn"/>
+      <feature EDIColumnName="Code_list_identification_code" EDIXpath="&quot;Beginning_of_message/DOCUMENT_MESSAGE_NAME/Code_list_identification_code&quot;" displayField="Code_list_identification_code" label="Code_list_identification_code" length="17" name="Code_list_identification_code" nullable="false" talendType="id_String" xmi:id="_wMoENd0CEeuNOd4vpiztpw" xsi:type="TalendMetadata:EDIFACTColumn"/>
+      <feature EDIColumnName="Code_list_responsible_agency_code" EDIXpath="&quot;Beginning_of_message/DOCUMENT_MESSAGE_NAME/Code_list_responsible_agency_code&quot;" displayField="Code_list_responsible_agency_code" label="Code_list_responsible_agency_code" length="3" name="Code_list_responsible_agency_code" nullable="false" talendType="id_String" xmi:id="_wMoENt0CEeuNOd4vpiztpw" xsi:type="TalendMetadata:EDIFACTColumn"/>
+      <feature EDIColumnName="Date_or_time_or_period_function_code_qualifier" EDIXpath="&quot;Date_time_period/DATE_TIME_PERIOD/Date_or_time_or_period_function_code_qualifier&quot;" displayField="Date_or_time_or_period_function_code_qualifier" label="Date_or_time_or_period_function_code_qualifier" length="3" name="Date_or_time_or_period_function_code_qualifier" talendType="id_String" xmi:id="_wMoEN90CEeuNOd4vpiztpw" xsi:type="TalendMetadata:EDIFACTColumn"/>
+      <feature EDIColumnName="Date_or_time_or_period_value" EDIXpath="&quot;Date_time_period/DATE_TIME_PERIOD/Date_or_time_or_period_value&quot;" displayField="Date_or_time_or_period_value" label="Date_or_time_or_period_value" length="35" name="Date_or_time_or_period_value" nullable="false" talendType="id_String" xmi:id="_wMoEON0CEeuNOd4vpiztpw" xsi:type="TalendMetadata:EDIFACTColumn"/>
+      <feature EDIColumnName="Date_or_time_or_period_format_code" EDIXpath="&quot;Date_time_period/DATE_TIME_PERIOD/Date_or_time_or_period_format_code&quot;" displayField="Date_or_time_or_period_format_code" label="Date_or_time_or_period_format_code" length="3" name="Date_or_time_or_period_format_code" nullable="false" talendType="id_String" xmi:id="_wMoEOd0CEeuNOd4vpiztpw" xsi:type="TalendMetadata:EDIFACTColumn"/>
+    </ownedElement>
+  </TalendMetadata:GenericPackage>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_8976c65c-a92c-4351-badf-038d0ea23e4c"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>/UtLNt/Uq9UoqVo930xUS/4pBpYduYrTXOU6fb0VMfJHUREw7s249B+QRUN9FsoqphI8/AlxCY7D
+3yFvOE03Yg==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_6cbfd056-385f-44be-aa5b-b89bc2bc2d26"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>8nzon3Hb1d72aBtTUTHA8SOygASEO0UE7i4c0IT8HVZBB4WTEr0AvsV3xZuqE/5qLQDM10ByfTua
+mTWcUlimCw==</DigestValue></Reference></SignedInfo><SignatureValue>pGXOGPD53AMwj6cYf+n7Zovgl06g3wCNIFIPkRpRBdxlCgxG8kH/t3oSvKZTDa/OIQwhJ5HDqKzA
+HKzLNM0pbWw9s+zWlMx2GCqiqWv8Rv5vEWT0P8KBjaAVJk7YllAEiWO5+uobjfSUVeUfPkdRBVVY
+I2VX83dOBI37KA6FTwxj6yOSjgMgHjnGDCDZEC760Oly0fhchoxR+AlPAXixntuziey2d9G039tW
+fHejMH4CMMqsWwbiysvajNwYb3kVXDaAI7dUAli9lt6Hy7dpKL/0IIg2tFku/o1FaZNzPVLYlSYH
+ft8ABssVJ/uQzJoWz42eu3CoNJdizZw1G8WZEA==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w
+DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD
+VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5
+QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U
+YWxlbmQgQ29kZSBTaWduaW5nIGNlcnRpZmljYXRlMQwwCgYDVQQLDANSJkQxFDASBgNVBAoTC1Rh
+bGVuZCBJbmMuMQ4wDAYDVQQHEwVQYXJpczEOMAwGA1UECBMFUGFyaXMxCzAJBgNVBAYTAkZSMIIB
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp5TMF8BmRt8dY51t9kIDdDkoOKVVytJN2gn2
+DhMGi8hzpUofNDykJDhe9SPqyJdGZ6o/h7laTA0/CivKyPT1OJQ9E2gMHKs8cTZM/cO2w0Atlqkl
+alIxepol0DNnUtmECVBqdnVsJesfmdoeptxgJAtxYbquFsTsrATNY2cscXpwmOca/Ewip48WQLFx
+e5s067jaIsAQGRIqpIup3bOtWBySrtImJ40lQCPeEcl96qzkv3utaVaNc3ukkhYkCDbMbK8NVd1B
+CVeeIBAe+n/SdpHH20o+6eIiZecsBGDLwlTYrFvuVqAa6xI7y8Vdz6irjPAVBEtG/iOc782aJ/lZ
+TwIDAQABo3UwczAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEF
+BQcDAzAdBgNVHQ4EFgQUGdfzQEbjQnANq28sfhEMTx+rsOcwHwYDVR0jBBgwFoAU530Lcvy1gZnG
+gCvZLOyCczK1qPcwDQYJKoZIhvcNAQELBQADggIBAEr22wnaQwZm2dhbUCqD+qZpTq2AF/tzxqAM
+eL/CiTjPbTblS4SNNwCKvTgMe9ucpUbenXmK7xE+DU9dN4om+t3VHbkOLQVyuLcd2WGsy7ZGwRvA
+f+TFwLbwjyTukOGm6Sd1qyZgvCPzBsKnft6vscvGy2yEpmFCeHJyBP8pvchg607zguRdNbkGYZXw
+G6jNipAbTtzdPTFKKr1bEf0sUGqMrlZIMPjflh2Vewu8ImNdX5IZdvBD6DdFVOC5wqV6u+W9ukE/
+mXZxDBYNl2AF7FTh04ucEVN3mHv7m2L0uFvUlhxchcagJhJsdQG+A0LVCemHbp6CSNQJx02KxqUG
+hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/
+WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW
+gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+
+qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_6cbfd056-385f-44be-aa5b-b89bc2bc2d26" Target="#_8976c65c-a92c-4351-badf-038d0ea23e4c"><Timestamp>2021-07-04 20:02:25</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>
